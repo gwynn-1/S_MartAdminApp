@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "824160532008",
+    "firebase_url": "https://smartapp-45af7.firebaseio.com",
+    "project_id": "smartapp-45af7",
+    "storage_bucket": "smartapp-45af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824160532008:android:4290f6c880d1efd5",
+        "android_client_info": {
+          "package_name": "com.smartadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824160532008-7ul23rgh8m0n289iqkg6l02aqe9hqg2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApk2s-mVZjde6pVXdx52wYWIFcOTHrEwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824160532008:android:67390e35b78a2986",
+        "android_client_info": {
+          "package_name": "com.smartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824160532008-7ul23rgh8m0n289iqkg6l02aqe9hqg2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApk2s-mVZjde6pVXdx52wYWIFcOTHrEwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
